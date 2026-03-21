@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-21T17:31:01 WIB" name="Surefire suite" finished-at="2026-03-21T17:31:12 WIB" duration-ms="11834">
+    <groups>
+    </groups>
+    <test started-at="2026-03-21T17:31:01 WIB" name="Surefire test" finished-at="2026-03-21T17:31:12 WIB" duration-ms="11834">
+      <class name="com.juaracoding.resources.AddToCartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.juaracoding.resources.AddToCartTest@51b7e5df]" started-at="2026-03-21T17:31:01 WIB" name="setup" finished-at="2026-03-21T17:31:04 WIB" duration-ms="3874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addToCartPositive()[pri:0, instance:com.juaracoding.resources.AddToCartTest@51b7e5df]" started-at="2026-03-21T17:31:04 WIB" name="addToCartPositive" finished-at="2026-03-21T17:31:05 WIB" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartPositive -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.juaracoding.resources.AddToCartTest@51b7e5df]" started-at="2026-03-21T17:31:05 WIB" name="tearDown" finished-at="2026-03-21T17:31:10 WIB" duration-ms="5234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.juaracoding.resources.AddToCartTest -->
+      <class name="com.juaracoding.resources.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.juaracoding.resources.LoginTest@2890c451]" started-at="2026-03-21T17:31:10 WIB" name="setup" finished-at="2026-03-21T17:31:12 WIB" duration-ms="1999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPositive()[pri:0, instance:com.juaracoding.resources.LoginTest@2890c451]" started-at="2026-03-21T17:31:12 WIB" name="loginPositive" finished-at="2026-03-21T17:31:12 WIB" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPositive -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.juaracoding.resources.LoginTest@2890c451]" started-at="2026-03-21T17:31:12 WIB" name="tearDown" finished-at="2026-03-21T17:31:12 WIB" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.juaracoding.resources.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
