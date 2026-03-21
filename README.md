@@ -15,7 +15,7 @@ Sebelum menjalankan project, pastikan:
 - Maven terinstal
 - Browser Google Chrome terinstal
 - IDE (IntelliJ / Eclipse) opsional, bisa menggunakan cmd/terminal
-- (Opsional) WPS Spreadsheet / Excel untuk membuka file SIT
+- ([https://drive.google.com/drive/folders/1dWXkjK5yhis66sdoBiRX5yGt5Io-Osv2?usp=drive_link]) Excel untuk membuka file SIT
 
 ---
 
