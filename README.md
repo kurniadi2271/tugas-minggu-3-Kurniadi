@@ -15,7 +15,7 @@ Sebelum menjalankan project, pastikan:
 - Maven terinstal
 - Browser Google Chrome terinstal
 - IDE (IntelliJ / Eclipse) opsional, bisa menggunakan cmd/terminal
-- [Excel](https://drive.google.com/drive/folders/1dWXkjK5yhis66sdoBiRX5yGt5Io-Osv2?usp=drive_link) untuk membuka file SIT
+- [Excel](https://drive.google.com/drive/folders/1nhk1hWWWwe6rLHDa8iG44-TwO4hkiCFi?usp=drive_link) untuk membuka file SIT
 
 ---
 

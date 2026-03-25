@@ -48,6 +48,11 @@ public class LoginTest {
 
     @AfterMethod
     public void tearDown() {
+        try {
+            Thread.sleep(5000); // delay 5 detik
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         driver.quit();
     }
 }
