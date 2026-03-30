@@ -5,6 +5,7 @@ Project ini adalah **automasi testing web aplikasi** [SauceDemo](https://www.sau
 Tujuan testing:
 - Verifikasi fungsi login (positif & negatif)
 - Verifikasi fungsi “Add to Cart” (positif & negatif)
+- Verifikasi fungsi “Checkout” (positif & negatif)
 - Menyediakan report otomatis dari TestNG
 
 ---
@@ -30,6 +31,7 @@ selenium-test/
     │       └── com
     │           └── juaracoding
     │               └── kurniadi
+    │                   └── CheckoutPage.java
     │                   ├── InventoryPage.java
     │                   └── LoginPage.java
     │
@@ -38,5 +40,6 @@ selenium-test/
         └── com
         └── juaracoding
             └── resources
-                ├── LoginTest.java
                 └── AddToCartTest.java
+                ├── CheckoutTest.java
+                ├── LoginTest.java

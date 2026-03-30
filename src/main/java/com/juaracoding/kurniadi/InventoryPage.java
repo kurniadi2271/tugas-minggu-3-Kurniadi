@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 public class InventoryPage {
     WebDriver driver;
 
-    By firstAddToCartBtn = By.cssSelector(".inventory_item:first-child button");
+    By firstAddToCartBtn = By.cssSelector("button[id^='add-to-cart']");
     By cartBadge = By.className("shopping_cart_badge");
 
     public InventoryPage(WebDriver driver) {
